@@ -17,7 +17,7 @@ Areas of interest:
 
 ##### Student Tutor at University of Milano - Bicocca
 Academic tutoring for the course of Software Analysis and Design.
-2017 Research Assistant Chalmers University
+
 ##### Research Assistant 
 Academic collaboration in a research project for an industrial case
 study in a big company located in Gothenburg, Sweden.
@@ -58,7 +58,7 @@ Smells: a Case Study in a Large Software Company.
 
 #### Languages
 
-|Language | Listening     | Reading           | Speaking | Writing |
-|:--------|:--------------|:------------------|:-------- |:--------|
-| English | C2            | C2                | C1       | C1      |
+|Language | Listening | Reading   | Speaking | Writing |
+|:--------|:----------|:----------|:-------- |:--------|
+| English | C2        | C2        | C1       | C1      |
 
