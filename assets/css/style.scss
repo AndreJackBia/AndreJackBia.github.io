@@ -3,8 +3,8 @@
 
 @import "{{ site.theme }}";
 
-img {
+p img {
     border-radius: 50%;
-    display: inline;
+    display: block;
     margin: 0 auto;
 }
