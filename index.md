@@ -55,6 +55,7 @@ Smells: a Case Study in a Large Software Company.
 - Git
 
 #### Languages
+
 |Language | Listening     | Reading           | Speaking | Writing |
 |:--------|:--------------|:------------------|:-------- |:--------|
 | English | C2            | C2                | C1       | C1      |
