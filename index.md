@@ -1,5 +1,7 @@
 ![image](/assets/img/image.jpg)
 
+*“One accurate measurement is worth a thousand expert opinions”*
+
 ## Education
 
 ##### Master of Science in Computer Science at University of Milano - Bicocca
