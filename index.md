@@ -61,21 +61,10 @@ Smells: a Case Study in a Large Software Company.
 
 #### Languages
 
-###### English
-
-<dl>
-  <dt>Listening:</dt>
-  <dd>C2</dd>
-  
-  <dt>Reading:</dt>
-  <dd>C2</dd>
-  
-  <dt>Speaking:</dt>
-  <dd>C1</dd>
-  
-  <dt>Writing:</dt>
-  <dd>C1</dd>
-</dl>
+| Language | Level         |
+|:---------|---------------|
+| Italian  | Mother tongue |
+| English  | C1            |
 
 
 
