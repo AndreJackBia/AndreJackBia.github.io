@@ -1,8 +1,15 @@
-## Welcome to GitHub Pages
+### Education
 
-![Octocat](https://andrejackbia.github.io/assets/img/logo.jpg)
+Master of Science in Computer Science at University of Milano - Bicocca
 
-You can use the [editor on GitHub](https://github.com/AndreJackBia/AndreJackBia.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Areas of interest: 
+- Software Engineering
+- Software Architecture
+- Reverse Engineering
+- Technical Debt
+- Software Quality
+
+Bachelor of Science in Computer Science at University of Milano - Bicocca
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
