@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-![Octocat](/assets/img/logo.png)
+![Octocat](https://andrejackbia.github.io/assets/img/logo.jpg)
 
 You can use the [editor on GitHub](https://github.com/AndreJackBia/AndreJackBia.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
