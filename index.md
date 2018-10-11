@@ -24,35 +24,38 @@ study in a big company located in Gothenburg, Sweden.
 Development of an extension of Arcan, a tool for software architecture
 analysis, to support the analysis of C/C++ Projects.
 
+## Publications
 
+Biaggi A., Arcelli Fontana F., Roveda R. 
+An Architectural Smells Detection Tool for C and C++ Projects.
+44th EUROMICRO Conference on Software Engineering and Advanced
+Application. 29-31 Aug. 2018, Prague, Czech Republic.
 
+Martini A., Arcelli Fontana F., Biaggi A., Roveda R.
+Identifying and Prioritizing Architectural Debt through Architectural
+Smells: a Case Study in a Large Software Company.
+12th European Conference on Software Architecture. 24-28 Sept.
+2018, Madrid, Spain.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Skills
 
-```markdown
-Syntax highlighted code block
+#### Programming Languages
+- Java
+- UML
+- R
+- Python
+- Matlab
+- SQL
+- C/C++
 
-# Header 1
-## Header 2
-### Header 3
+#### Technologies
+- Android
+- MySQL Database
+- SonarQube
+- Git
 
-- Bulleted
-- List
+#### Languages
+|Language | Listening     | Reading           | Speaking | Writing |
+|:--------|:--------------|:------------------|:-------- |:--------|
+| English | C2            | C2                | C1       | C1      |
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AndreJackBia/AndreJackBia.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
