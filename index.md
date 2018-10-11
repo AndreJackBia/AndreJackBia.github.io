@@ -3,6 +3,23 @@
 ### *“One accurate measurement is worth a thousand expert opinions.”*
 ### *— Grace Hopper*
 
+## Basic Information
+<dl>
+  <dt>Born</dt>
+  <dd>1995</dd>
+
+  <dt>Birthplace</dt>
+  <dd>Milano</dd>
+
+  <dt>Living in</dt>
+  <dd>Legnano</dd>
+  
+  <dt>E-mail</dt>
+  <dd>biaggi.jack@gmail.com</dd>
+  
+</dl>
+
+
 ## Education
 
 ##### Master of Science in Computer Science at University of Milano - Bicocca
