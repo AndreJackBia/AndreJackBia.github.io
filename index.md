@@ -22,7 +22,7 @@ Academic tutoring for the course of Software Analysis and Design.
 Academic collaboration in a research project for an industrial case
 study in a big company located in Gothenburg, Sweden.
 
-##### Software Engineer Traineeship at ESSeRE Lab
+##### Software Engineer Internship at ESSeRE Lab
 Development of an extension of Arcan, a tool for software architecture
 analysis, to support the analysis of C/C++ Projects.
 
