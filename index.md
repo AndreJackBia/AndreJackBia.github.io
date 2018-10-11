@@ -1,3 +1,5 @@
+![image](/assets/img/image.jpg)
+
 ## Education
 
 ##### Master of Science in Computer Science at University of Milano - Bicocca
