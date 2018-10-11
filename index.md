@@ -1,6 +1,7 @@
 ![image](/assets/img/image.jpg)
 
-###    *“One accurate measurement is worth a thousand expert opinions” — Grace Hopper*
+### *“One accurate measurement is worth a thousand expert opinions”*
+### *— Grace Hopper*
 
 ## Education
 
