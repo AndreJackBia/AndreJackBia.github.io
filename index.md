@@ -1,6 +1,6 @@
 ## Education
 
-Master of Science in Computer Science at University of Milano - Bicocca
+#### Master of Science in Computer Science at University of Milano - Bicocca
 
 Areas of interest: 
 - Software Engineering
@@ -9,9 +9,23 @@ Areas of interest:
 - Technical Debt
 - Software Quality
 
-Bachelor of Science in Computer Science at University of Milano - Bicocca
+#### Bachelor of Science in Computer Science at University of Milano - Bicocca
 
 ## Experience
+
+#### Student Tutor at University of Milano - Bicocca
+Academic tutoring for the course of Software Analysis and Design.
+2017 Research Assistant Chalmers University
+#### Research Assistant 
+Academic collaboration in a research project for an industrial case
+study in a big company located in Gothenburg, Sweden.
+
+#### Software Engineer Traineeship at ESSeRE Lab
+Development of an extension of Arcan, a tool for software architecture
+analysis, to support the analysis of C/C++ Projects.
+
+
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
