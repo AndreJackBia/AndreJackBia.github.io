@@ -61,7 +61,12 @@ Smells: a Case Study in a Large Software Company.
 
 #### Languages
 
-|Language | Listening | Reading   | Speaking | Writing |
-|:--------|:----------|:----------|:-------- |:--------|
-| English | C2        | C2        | C1       | C1      |
+---
+Language: English
+Listening: C2
+Reading: C2
+Speaking: C1
+Writing: C1
+
+---
 
