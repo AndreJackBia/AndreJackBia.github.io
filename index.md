@@ -48,16 +48,13 @@ analysis, to support the analysis of C/C++ Projects.
 
 ## Publications
 
-Biaggi A., Arcelli Fontana F., Roveda R. 
-An Architectural Smells Detection Tool for C and C++ Projects.
-44th EUROMICRO Conference on Software Engineering and Advanced
-Application. 29-31 Aug. 2018, Prague, Czech Republic.
+Martini, A., Fontana, F. A., Biaggi, A., & Roveda, R. (2018, September). 
+Identifying and prioritizing architectural debt through architectural smells: a case study in a large software company. 
+In *European Conference on Software Architecture* (pp. 320-335). Springer, Cham.
 
-Martini A., Arcelli Fontana F., Biaggi A., Roveda R.
-Identifying and Prioritizing Architectural Debt through Architectural
-Smells: a Case Study in a Large Software Company.
-12th European Conference on Software Architecture. 24-28 Sept.
-2018, Madrid, Spain.
+Biaggi, A., Fontana, F. A., & Roveda, R. (2018, August). 
+An Architectural Smells Detection Tool for C and C++ Projects. 
+In *2018 44th Euromicro Conference on Software Engineering and Advanced Applications (SEAA)* (pp. 417-420). IEEE.
 
 ## Skills
 
