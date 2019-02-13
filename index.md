@@ -38,7 +38,12 @@ Areas of interest:
 
 ##### Bachelor of Science in Computer Science at University of Milano - Bicocca
 
+Thesis: An Architectural Smells Detection Tool for C and C++ Projects.
+
 ## Experience
+
+##### Mobile Developer at Outpump
+Android Developer for a news website.
 
 ##### Student Tutor at University of Milano - Bicocca
 Academic tutoring for the course of Software Analysis and Design.
