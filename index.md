@@ -19,6 +19,11 @@
   
 </dl>
 
+## About me
+
+I'm a twenty-three years old master student interested in software engineering and cutting-edge technologies.
+I'm also interested in sci-fi movies and TV series, from which I take inspiration for the future.
+I strongly believe in technology as the engine of the world, so I make the main core of my life out of it.
 
 ## Education
 
@@ -48,12 +53,12 @@ analysis, to support the analysis of C/C++ Projects.
 
 ## Publications
 
-Martini, A., Fontana, F. A., Biaggi, A., & Roveda, R. (2018, September). 
-Identifying and prioritizing architectural debt through architectural smells: a case study in a large software company. 
+Martini, A., Fontana, F. A., Biaggi, A., & Roveda, R. (2018, September).   
+Identifying and prioritizing architectural debt through architectural smells: a case study in a large software company.  
 In *European Conference on Software Architecture* (pp. 320-335). Springer, Cham.
 
-Biaggi, A., Fontana, F. A., & Roveda, R. (2018, August). 
-An Architectural Smells Detection Tool for C and C++ Projects. 
+Biaggi, A., Fontana, F. A., & Roveda, R. (2018, August).  
+An Architectural Smells Detection Tool for C and C++ Projects.  
 In *2018 44th Euromicro Conference on Software Engineering and Advanced Applications (SEAA)* (pp. 417-420). IEEE.
 
 ## Skills
