@@ -2,6 +2,5 @@ title: Andrea Biaggi
 logo: /assets/img/logo.jpg
 description: Computer Scientist
 theme: jekyll-theme-slate
-site:
-  github:
-    repository_url: https://github.com/AndreJackBia
+github:
+  repository_url: https://github.com/AndreJackBia
