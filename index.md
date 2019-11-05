@@ -27,7 +27,7 @@ I strongly believe that technology makes the world a better place to live, so I 
 
 ## Education
 
-##### Master of Science in Computer Science at University of Milano - Bicocca
+#### Master of Science in Computer Science at University of Milano - Bicocca
 
 Thesis: Automated and Personalized Code Anomlies Detection
 
@@ -38,23 +38,23 @@ Areas of interest:
 - Technical Debt
 - Software Quality
 
-##### Bachelor of Science in Computer Science at University of Milano - Bicocca
+#### Bachelor of Science in Computer Science at University of Milano - Bicocca
 
 Thesis: An Architectural Smells Detection Tool for C and C++ Projects.
 
 ## Experience
 
-##### Mobile Developer at Outpump
+#### Mobile Developer at Outpump
 Android Developer for a news website.
 
-##### Student Tutor at University of Milano - Bicocca
+#### Student Tutor at University of Milano - Bicocca
 Academic tutoring for the course of Software Analysis and Design.
 
-##### Research Assistant 
+#### Research Assistant 
 Academic collaboration in a research project for an industrial case
 study in a big company located in Gothenburg, Sweden.
 
-##### Software Engineer Internship at ESSeRE Lab
+#### Software Engineer Internship at ESSeRE Lab
 Development of an extension of Arcan, a tool for software architecture
 analysis, to support the analysis of C/C++ Projects.
 
