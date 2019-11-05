@@ -21,13 +21,15 @@
 
 ## About me
 
-I'm a twenty-three years old master student interested in software engineering and cutting-edge technologies.
+I'm a twenty-four years old computer scientist interested in software engineering and cutting-edge technologies.
 I'm also interested in sci-fi movies and TV series, from which I take inspiration for the future.
-I strongly believe in technology as the engine of the world, so I make the main core of my life out of it.
+I strongly believe that technology makes the world a better place to live, so I make the main core of my life out of it.
 
 ## Education
 
 ##### Master of Science in Computer Science at University of Milano - Bicocca
+
+Thesis: Automated and Personalized Code Anomlies Detection
 
 Areas of interest: 
 - Software Engineering
