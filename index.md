@@ -44,6 +44,12 @@ Thesis: An Architectural Smells Detection Tool for C and C++ Projects.
 
 ## Experience
 
+##### Full Stack Developer at Myco
+Re-engineering and migration of a web application for continuous feedback.
+
+##### Researcher at University of Milano - Bicocca
+Detection of performance antipatterns in Java applications through the analysis of profiling data extracted during the execution of load tests.
+
 ##### Mobile Developer at Outpump
 Android Developer for a news website.
 
@@ -53,10 +59,6 @@ Academic tutoring for the course of Software Analysis and Design.
 ##### Research Assistant 
 Academic collaboration in a research project for an industrial case
 study in a big company located in Gothenburg, Sweden.
-
-##### Software Engineer Internship at ESSeRE Lab
-Development of an extension of Arcan, a tool for software architecture
-analysis, to support the analysis of C/C++ Projects.
 
 ## Publications
 
@@ -72,12 +74,10 @@ In *2018 44th Euromicro Conference on Software Engineering and Advanced Applicat
 
 #### Programming Languages
 - Java
-- UML
-- R
 - Python
-- Matlab
-- SQL
 - C/C++
+- R
+- Matlab
 
 #### Technologies
 - Android
