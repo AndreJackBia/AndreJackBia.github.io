@@ -16,12 +16,11 @@
   
   <dt>E-mail</dt>
   <dd>biaggi.jack@gmail.com</dd>
-  
 </dl>
 
 ## About me
 
-I'm a twenty-four years old computer scientist interested in software engineering and cutting-edge technologies.
+I'm a young computer scientist interested in software engineering and cutting-edge technologies.
 I'm also interested in sci-fi movies and TV series, from which I take inspiration for the future.
 I strongly believe that technology makes the world a better place to live, so I make the main core of my life out of it.
 
@@ -44,6 +43,12 @@ Thesis: An Architectural Smells Detection Tool for C and C++ Projects.
 
 ## Experience
 
+#### Cyber Security Engineer at UniCredit Services
+Design of cybersecurity solutions for UniCredit mobile banking.
+
+#### Cyber Security Consultant at NTT Data
+Development of cybersecurity solutions for UniCredit Services.
+
 ##### Full Stack Developer at Myco
 Re-engineering and migration of a web application for continuous feedback.
 
@@ -53,12 +58,12 @@ Detection of performance antipatterns in Java applications through the analysis 
 ##### Mobile Developer at Outpump
 Android Developer for a news website.
 
-##### Student Tutor at University of Milano - Bicocca
-Academic tutoring for the course of Software Analysis and Design.
-
 ##### Research Assistant 
 Academic collaboration in a research project for an industrial case
-study in a big company located in Gothenburg, Sweden.
+study in a big automotive company located in Gothenburg, Sweden.
+
+##### Student Tutor at University of Milano - Bicocca
+Academic tutoring for the course of Software Analysis and Design.
 
 ## Publications
 
@@ -77,7 +82,7 @@ In *2018 44th Euromicro Conference on Software Engineering and Advanced Applicat
 - Python
 - C/C++
 - R
-- Matlab
+- JavaScript
 
 #### Technologies
 - Android
