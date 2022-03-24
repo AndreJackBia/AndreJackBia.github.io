@@ -90,6 +90,7 @@ In *2018 44th Euromicro Conference on Software Engineering and Advanced Applicat
 - Docker
 - PostgreSQL Database
 - MySQL Database
+- Oracle Database
 - JUnit
 - Selenium
 - SonarQube
