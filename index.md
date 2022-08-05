@@ -43,10 +43,10 @@ Thesis: An Architectural Smells Detection Tool for C and C++ Projects.
 
 ## Experience
 
-##### Cyber Security Engineer at UniCredit Services
+##### Software Engineer at UniCredit Services
 Design of cybersecurity solutions for UniCredit mobile banking.
 
-##### Cyber Security Consultant at NTT Data
+##### Software Engineer at NTT Data
 Development of cybersecurity solutions for UniCredit Services.
 
 ##### Full Stack Developer at Myco
